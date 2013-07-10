@@ -15,3 +15,9 @@ Calamity has recorded a profile of her application running over a period of time
 With the Profile loaded, she looks at the Stack graph which shows a repeating pattern of spikes. Between a pair of spikes, there is a small series of bars that don't repeat.
 
 Her first goal is to understand the spikes, so Calamity highlights a range over one of the spikes and selects it in the toolbar. The table of pseudostacks updates to reflect the new highlighted range so Calamity begins expanding entries in the table to see what's causing the spikes to occur. She drills into the table and sees setInterval() and a function called tick().
+
+## Finding Reflows
+
+## Analyzing Animation Frames
+
+## Comparing Profiles
