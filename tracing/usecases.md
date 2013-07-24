@@ -19,7 +19,6 @@ Linda has found a bug in her application. She deploys the Tracer and reruns her 
 Gerhardt  is curious about what parts of his application are allocating the bulk of his memory. He starts a Tracer and uses the application for awhile. When finished, he looks at the generated Trace and searches for  allocations.
 
 * Take a snapshot of scope at entry and exit and compare differences
-
 * Search for FooObjectFactoryFactory instances and highlight all calls where they were allocated
 
 ## Statistical Analysis - [may be better served by the Profiler]
